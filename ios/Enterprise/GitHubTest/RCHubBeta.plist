@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://web.apvia.org.cn/download/RCHubBetaV21.ipa</string>
+					<string>http://web.apvia.org.cn/download/RCHubBetaV22.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.redcoats.rchubbeta</string>
 				<key>bundle-version</key>
-				<string>2.1.0</string>
+				<string>2.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
